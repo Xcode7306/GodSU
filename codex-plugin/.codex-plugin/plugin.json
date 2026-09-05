@@ -1,0 +1,37 @@
+{
+  "name": "godsu-resume",
+  "version": "0.1.0",
+  "description": "酥神简历：优化简历文案，并按指定视觉风格排版为 A4 PDF。",
+  "author": {
+    "name": "youngbeauty",
+    "url": "https://github.com/youngbeauty"
+  },
+  "homepage": "https://github.com/youngbeauty/GodSU",
+  "repository": "https://github.com/youngbeauty/GodSU",
+  "keywords": [
+    "resume",
+    "cv",
+    "job-search",
+    "resume-writing",
+    "pdf"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "GodSU 简历",
+    "shortDescription": "优化简历文案并排版为 A4 PDF",
+    "longDescription": "先挖掘真实经历和可验证指标，再按高信号简历方法改写；文案定稿后使用配套模板生成一页 A4 PDF。",
+    "developerName": "youngbeauty",
+    "category": "Productivity",
+    "capabilities": [
+      "Writing",
+      "Document creation",
+      "PDF export"
+    ],
+    "brandColor": "#2563EB",
+    "defaultPrompt": [
+      "用 GodSU 方法优化我的简历",
+      "先挖料，再改写我的项目经历",
+      "把这份简历排成一页 A4 PDF"
+    ]
+  }
+}
